@@ -23,3 +23,9 @@ Run tests using cargo:
 > cargo test
 
 Test modules are found inside the module under test, as described in rusts [Handbook](https://doc.rust-lang.org/book/ch11-01-writing-tests.html).
+
+## CI/CD
+
+Continous integration has been added, the results can be seen here:
+
+[![codecov](https://codecov.io/gh/Marciland/pagerank/graph/badge.svg?token=6I8BN7H1U0)](https://codecov.io/gh/Marciland/pagerank)
