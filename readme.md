@@ -15,3 +15,11 @@ Make sure rust is installed on your system, an installation guide can be found [
 > cargo build
 
 Then run the resulting binary, typically found inside target/debug.
+
+## How to test
+
+Run tests using cargo:
+
+> cargo test
+
+Test modules are found inside the module under test, as described in rusts [Handbook](https://doc.rust-lang.org/book/ch11-01-writing-tests.html).
