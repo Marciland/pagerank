@@ -1,0 +1,6 @@
+[package]
+name = "pagerank"
+edition = "2021"
+
+[profile.dev]
+debug = true
